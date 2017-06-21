@@ -61,6 +61,9 @@ You may consider defining your own types.
 Example:
 
 > (IP: 192.168.2.6, CIDR: 25) -> (Network: 192.168.2.0, Broadcast: 192.168.2.127)
+
 > (IP: 192.168.2.6, Subnet: 255.255.255.128) -> (Network: 192.168.2.0, Broadcast: 192.168.2.127)
+
 > (IP: 10.0.0.2, CIDR: 17) -> (Network: 192.168.2.0, Broadcast: 192.168.2.127)
+
 > (IP: 10.0.0.2, Subnet: 255.255.128.0) -> (Network: 10.0.0.0, Broadcast: 10.0.127.255)
