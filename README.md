@@ -9,6 +9,7 @@ Copy and Paste your answers in the form below:
 
 https://drive.google.com/open?id=1_nuVHEh6wlQCGcwqHKuvG4077JGQAVkkCvOJSCYIqKM
 
+Or Better use this playgroud (depends on your language): https://www.tutorialspoint.com/codingground.htm, and share the playground (Project > Share) and paste the links in the forms.
 
 ## P1\ Find the missing letter
 
