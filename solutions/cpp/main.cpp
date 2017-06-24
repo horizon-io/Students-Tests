@@ -19,7 +19,7 @@ char theMissingLetter1(char letters[]) {
     throw "Not valid Input";
 }
 
-char theMissingLetter2(char input[], int length = 0) {
+char theMissingLetter2(char input[]) {
 
     string letters(input);
     // because all we need is the count + 1
