@@ -71,3 +71,5 @@ Example:
 > (IP: 10.0.0.2, CIDR: 17) -> (Network: 192.168.2.0, Broadcast: 192.168.2.127)
 
 > (IP: 10.0.0.2, Subnet: 255.255.128.0) -> (Network: 10.0.0.0, Broadcast: 10.0.127.255)
+
+## Additional Problem\ Find the first and last host addresses using the info from P3
